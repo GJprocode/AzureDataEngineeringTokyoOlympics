@@ -10,10 +10,10 @@
 #### Part two:
 ##### Run Azure synaps analytics and run sql queries on top of the transformed data to visualize our data. 
 ##### Visualization tools that can be used is Microsoft BI, Tableau, looker studio. etc. 
-![screenshot](picsAzureDataPipeline.png) 
+![screenshot](pics/AzureDataPipeline.png) 
 ###### ref: https://www.linkedin.com/pulse/azure-end-to-end-data-pipeline-sajad-ahmadi-xrqze/
 ![screenshot](pics/Container.png)
-![screenshot](picsDBricksSparkCode1.png)
-![screenshot](picsDataFactory.png)
-![screenshot](picsDbrickSparkcode2.png)
-![screenshot](picsDbrickSparkcode3.png)
+![screenshot](pics/DBricksSparkCode1.png)
+![screenshot](pics/DataFactory.png)
+![screenshot](pics/DbrickSparkcode2.png)
+![screenshot](pics/DbrickSparkcode3.png)
