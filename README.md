@@ -15,5 +15,5 @@
 ![screenshot](Container.png)
 ![screenshot](DBricksSparkCode1.png)
 ![screenshot](DataFactory.png)
-![screenshot](DBricksSparkcode2.png)
-![screenshot](DBricksSparkcode3.png)
+![screenshot](DbrickSparkcode2.png)
+![screenshot](DbrickSparkcode3.png)
