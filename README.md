@@ -17,3 +17,5 @@
 ![screenshot](pics/DataFactory.png)
 ![screenshot](pics/DbrickSparkcode2.png)
 ![screenshot](pics/DbrickSparkcode3.png)
+![screenshot](pics/AzureSynapseAnalytics.png)
+![screenshot](pics/azureSYnapseAnalytics2.png)
