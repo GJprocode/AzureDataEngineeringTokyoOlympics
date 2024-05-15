@@ -19,4 +19,4 @@
 ![screenshot](pics/DbrickSparkcode3.png)
 ![screenshot](pics/AzureSynapseAnalytics.png)
 ![screenshot](pics/azureSYnapseAnalytics2.png)
-## Part three: Data anlysis in PowerBI
+## Part three: Data analysis in PowerBI @ 
