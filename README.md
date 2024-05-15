@@ -1,7 +1,7 @@
 # AzureDataEngineeringTokyoOlympicsData
 #### Part one ref: https://www.youtube.com/watch?v=IaA9YNlg5hM
 #### Part two ref: https://www.youtube.com/watch?v=nW0ffUW2vw4
-## Part one: Azure Data Container, Data Factory (Build Pipleline), Databricks & Datalakes. 
+## Part one: Azure Data Container, Data Factory (Build Pipeline), Databricks & Datalakes. 
 ##### Extract data from the API, useing Azure data factory to build a data pipeline. Get data from github raw url.  
 ##### Load data on Azure datalake storage(In Container). Load raw data and then use Azure Databricks to write spark code to transform the data. 
 ##### Such as making sure headers are showing, and data is correct type, intiger, string etc, basic evaluation, 
