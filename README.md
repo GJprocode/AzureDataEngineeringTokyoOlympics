@@ -19,4 +19,4 @@
 ![screenshot](pics/DbrickSparkcode3.png)
 ![screenshot](pics/AzureSynapseAnalytics.png)
 ![screenshot](pics/azureSYnapseAnalytics2.png)
-## Part three: Data analysis in PowerBI @ 
+## Part three: Data analysis in PowerBI @ https://github.com/GJprocode/PowerBIDataScienceVisualsTokyoOlympics-
