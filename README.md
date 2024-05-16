@@ -11,7 +11,7 @@
 ##### Run Azure synaps analytics and run sql queries on top of the transformed data to visualize our data. 
 ##### Visualization tools that can be used is Microsoft BI, Tableau, looker studio. etc. 
 ## Make sure you create an Azure and power BI account with a company account, otherwise when you want to
-## fetch data from Azure Synapse to PowerBI, you need to transfer project from non company account to company account
+## import data from PowerBI to Azure Synapse with 'get data', you need to transfer project from non company account to company account
 ## (If you created it with a normal email account),
 ## create network and admin roles, which may not work and you must get PowerBI Pro. 
 ## Alternatively, load data as .csv into PowerBI and Create your Data Analysis Dashboard without a workspace. 
