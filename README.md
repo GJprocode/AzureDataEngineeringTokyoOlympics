@@ -10,6 +10,12 @@
 ## Part two: Azure Synaps Analytics with SQL
 ##### Run Azure synaps analytics and run sql queries on top of the transformed data to visualize our data. 
 ##### Visualization tools that can be used is Microsoft BI, Tableau, looker studio. etc. 
+## Make sure you create an Azure and power BI account with a company account, otherwise when you want to
+## fetch data from Azure Synapse to PowerBI, you need to transfer project from non company account to company account
+## (If you created it with a normal email account),
+## create network and admin roles, which may not work and you must get PowerBI Pro. 
+## Alternatively, load data as .csv into PowerBI and Create your Data Analysis Dashboard without a workspace. 
+## A good Udemy course on POWERBI is from Phillip Burton, I Do Data. Try it!! :)
 ![screenshot](pics/AzureDataPipeline.png) 
 ###### ref: https://www.linkedin.com/pulse/azure-end-to-end-data-pipeline-sajad-ahmadi-xrqze/
 ![screenshot](pics/Container.png)
@@ -19,4 +25,3 @@
 ![screenshot](pics/DbrickSparkcode3.png)
 ![screenshot](pics/AzureSynapseAnalytics.png)
 ![screenshot](pics/azureSYnapseAnalytics2.png)
-## Part three: Data analysis in PowerBI @ https://github.com/GJprocode/PowerBIDataScienceVisualsTokyoOlympics-
